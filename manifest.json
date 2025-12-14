@@ -1,6 +1,6 @@
 {
-    "name": "小黑屋",
-    "short_name": "小黑屋",
+    "name": "A Dark Room",
+    "short_name": "Dark Room",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#000000",
